@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shehryar Sajid</title>
+<style>
+body{margin:0;background:#0f0f0f;color:#fff;font-family:sans-serif;text-align:center}
+.box{padding:50px 20px}
+h1{font-size:36px}
+span{color:#a78bfa}
+.card{background:#1a1a1a;max-width:340px;margin:20px auto;padding:20px;border-radius:16px;border:1px solid #333}
+a{display:block;background:#fff;color:#000;padding:12px;border-radius:10px;text-decoration:none;font-weight:bold;margin-top:12px}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Shehryar Sajid</h1>
+<span>From Kashmir | Iqra University Islamabad<br>BS Software Engineering - 4th Sem</span>
+</div>
+<div class="card">
+<p>Welcome to my portfolio. Future Software Engineer passionate about Web Development.</p>
+<a href="#">My Projects</a>
+<a style="background:#a78bfa" href="mailto:sharyarsjd@gmail.com">Contact Me</a>
+</div>
+</body>
+</html>
